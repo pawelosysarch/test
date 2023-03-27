@@ -1,0 +1,7 @@
+<project>
+  <modelVersion>0.0.1</modelVersion>
+
+  <groupId>com.osysarch.test</groupId>
+  <artifactId>my-test/artifactId>
+  <version>1</version>
+</project>
